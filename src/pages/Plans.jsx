@@ -136,7 +136,7 @@ export default function Plans() {
                   color: billing === 'annual' ? 'white' : COLORS_APP.success,
                   fontSize: '10px', fontWeight: '700', padding: '2px 6px', borderRadius: '6px',
                 }}>
-                  -50%
+                  -10%
                 </span>
               )}
             </button>
