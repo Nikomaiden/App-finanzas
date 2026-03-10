@@ -40,8 +40,8 @@ const PREMIUM_BENEFITS = [
 ]
 
 const PRICING = {
-  monthly: { price: '$19.900', period: 'COP / mes', saving: null },
-  annual: { price: '$9.950', period: 'COP / mes', saving: 'Ahorras 50% — $119.400 COP / año' },
+  monthly: { price: '$5.000', period: 'COP / mes', saving: null },
+  annual: { price: '$4.500', period: 'COP / mes', saving: 'Ahorras 10% — $54.000 COP / año' },
 }
 
 export default function Plans() {
